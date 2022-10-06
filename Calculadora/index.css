@@ -1,0 +1,17 @@
+#titulo{
+
+    color: white;
+}
+
+.divsMedio{
+
+    background-color: rgb(155, 155, 155);
+    display: block;
+    margin: auto;
+    
+}
+
+#contenedor{
+    background-color: rgba(155, 155, 155, 0.5); 
+    margin-top: 10;
+}
